@@ -1,0 +1,1399 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "gaadiyadekhoContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Entities",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "Domain",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[__MigrationHistory]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[aspnet_Applications]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[aspnet_Membership]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[aspnet_Paths]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[aspnet_PersonalizationAllUsers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[aspnet_PersonalizationPerUser]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[aspnet_Profile]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[aspnet_Roles]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[aspnet_SchemaVersions]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[aspnet_Users]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[aspnet_UsersInRoles]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[aspnet_WebEvent_Events]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AspNetRoles]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AspNetUserClaims]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AspNetUserLogins]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AspNetUserRoles]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AspNetUsers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[bankKitBids]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[BidOffer]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[BidPriceHistory]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Bids]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[BidVehicle]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[bidwhishlist]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[BodyType]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Brands]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CategoryBidIncrtement]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Chat]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Colours]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Connection]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Countries]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DealerCategories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DealerLocation]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Districts]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EventVechileImages]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EventVehicle]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ExpertContent]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ExpertPage]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[expertpoints]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FinaceRequirement]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FreeOldVechileImages]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FreeOldVehicle]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Importanceofinsurence]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[IndiainCities]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[InsurenseRequirement]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[jugad]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[LengthType]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Messages]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Nessistynsurence]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[NewVecCompare]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[NewvecSubAttributes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[NewvecSubAttributesCategory]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[NewVehicle]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[newvehicle1]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[NeWVehicleFEATURES]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[NewVehicleSPECIFICATIONS]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[NewVehilcePrice]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Notification]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[OfferBid]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[OldVechileImages]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[OldVechileImages1]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[OldVehicle]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[OldVehicle1]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[OldVehicleBid]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PostRequirement]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Requests]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Safty]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SellerTypes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SellerVehicleType]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[States]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SubDistricts]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tbl_notifications]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[UsersPin]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Variets]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[VechileCondition]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[VechileImages]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[VechileModel]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Vechiles]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[VechileSizeConfiguration]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[VechileSubType]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[VechileTypes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[VehicleRequirement]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[VisitorChat]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gaadiyadekho].[Approvedbids]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gaadiyadekho].[AuctionEvents]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gaadiyadekho].[Auctionsbids]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gaadiyadekho].[AuctionsbidsHistory]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gaadiyadekho].[bidhistory]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gaadiyadekho].[bidvecdocs]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gaadiyadekho].[bulkvehcile]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gaadiyadekho].[chasshieDetail]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gaadiyadekho].[chassiattribute]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gaadiyadekho].[Chassie]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gaadiyadekho].[chassindentity]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gaadiyadekho].[chassiParts]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gaadiyadekho].[DealerPoints]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gaadiyadekho].[Dealers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gaadiyadekho].[Dealersettings]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gaadiyadekho].[DelersVehciles]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gaadiyadekho].[EventPermision]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gaadiyadekho].[fancyNumber]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gaadiyadekho].[FreeOldVehiclenew]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gaadiyadekho].[homepagecomaprevec]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gaadiyadekho].[homepageshowcase]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gaadiyadekho].[homepageVehcile]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gaadiyadekho].[landinglatestVec]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gaadiyadekho].[NewVecAttrContent]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gaadiyadekho].[NewvecAttributes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gaadiyadekho].[OfflineVehicleMessages]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gaadiyadekho].[OtpLog]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gaadiyadekho].[purchasehistory]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gaadiyadekho].[RTAFile]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gaadiyadekho].[RTAFileDocument]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gaadiyadekho].[RTAOfficeAddress]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gaadiyadekho].[sendsms]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gaadiyadekho].[VechileKind]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gaadiyadekho].[visitormapping]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gaadiyadekho].[wallet]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[gaadiyadekho].[WalletResponse]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[aspnet_AnyDataInTables]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_Applications_CreateApplication]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_CheckSchemaVersion]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_Membership_ChangePasswordQuestionAndAnswer]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_Membership_CreateUser]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_Membership_FindUsersByEmail]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_Membership_FindUsersByName]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_Membership_GetAllUsers]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_Membership_GetNumberOfUsersOnline]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_Membership_GetPassword]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_Membership_GetPasswordWithFormat]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_Membership_GetUserByEmail]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_Membership_GetUserByName]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_Membership_GetUserByUserId]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_Membership_ResetPassword]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_Membership_SetPassword]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_Membership_UnlockUser]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_Membership_UpdateUser]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_Membership_UpdateUserInfo]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_Paths_CreatePath]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_Personalization_GetApplicationId]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_PersonalizationAdministration_DeleteAllState]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_PersonalizationAdministration_FindState]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_PersonalizationAdministration_GetCountOfState]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_PersonalizationAdministration_ResetSharedState]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_PersonalizationAdministration_ResetUserState]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_PersonalizationAllUsers_GetPageSettings]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_PersonalizationAllUsers_ResetPageSettings]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_PersonalizationAllUsers_SetPageSettings]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_PersonalizationPerUser_GetPageSettings]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_PersonalizationPerUser_ResetPageSettings]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_PersonalizationPerUser_SetPageSettings]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_Profile_DeleteInactiveProfiles]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_Profile_DeleteProfiles]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_Profile_GetNumberOfInactiveProfiles]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_Profile_GetProfiles]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_Profile_GetProperties]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_Profile_SetProperties]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_RegisterSchemaVersion]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_Roles_CreateRole]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_Roles_DeleteRole]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_Roles_GetAllRoles]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_Roles_RoleExists]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_Setup_RemoveAllRoleMembers]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_Setup_RestorePermissions]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_UnRegisterSchemaVersion]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_Users_CreateUser]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_Users_DeleteUser]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_UsersInRoles_AddUsersToRoles]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_UsersInRoles_FindUsersInRole]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_UsersInRoles_GetRolesForUser]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_UsersInRoles_GetUsersInRoles]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_UsersInRoles_IsUserInRole]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_UsersInRoles_RemoveUsersFromRoles]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[aspnet_WebEvent_LogEvent]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetAllCities]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetAppUserVehicle]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetAppUserVehicleData]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetAppUserVehicleIds]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetAppUserVehicleInfo]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetAppUserVehicleInfoData]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetAppUserVehicleInfoIds]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetAppUserVehicleInfoIdsBySearch]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetBankKitTimeLine]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetBrandsByID]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[getCityById]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[getCityDetailsBYID]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetDistrictsByID]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[getnearestvec]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[getnearestvecFilter]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[getNewVehicleByBrand]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[getNewVehicleByFuleType]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[getNewVehilcelistPrices]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[getNewVehilcePrices]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[getNewVehilcePriceswithid]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetStatesByID]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetSubDistrictsByID]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetVarietsByID]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetVechileByID]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetVechileModelByID]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetVechileSubTypeByID]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetVechileSubTypesByID]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetVechileTypesByID]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetVehcileAttributeWithValue]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetVehicleAttributeWithValue]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[newVehicleSearchList]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SearchBids]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[searchCities]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[Searchtxt]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[actionVehicle]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[AllLiveBids]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[AllLiveBids1]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[alloldvehcileanylysis]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[BidsDocumentsPending]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[checkdealerbycity]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[fancynumberopen_for]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[fancynumberopen_forwithprice]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[getallapprovedbids]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[GetAllCitiesName]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[GetAllCity]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[GetAllCityName]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[GetAllDealerAllOldvec]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[getalleventvec]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[getalleventvec1]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[getalleventvecwhish]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[GetAllNewbrandsByCatdid]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[GetAllNewvec]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[GetAllnewVECNAME]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[GetAllNewVehicleCategory]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[GetAllOldvec]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[getallrcvecbids]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[getallrcvecbidsdocbyvecid]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[GetAllVECNAME]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[getAllwinbids]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[getapprovedbids]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[GetAuctionEvents]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[GetBIdhistroy]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[getCompletercvecbids]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[GetDealerAllOldvec]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[getDealerBrands]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[getdealerCategory]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[GetDealers]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[GetDealersCityBrand]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[getdisticthomepagevehcile]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[Geteventvecdetails]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[Geteventvecimg]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[GetfancyNumbers]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[GetfancyNumbers1]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[GetfancyNumbersFilter]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[GetfancyNumbersHomeFilter]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[GetfancyNumbersNew]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[GetFreeOldVehicleData]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[GethomepageVehcile]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[GethomepageVehcileList]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[GethomepageVehcileListBydealer]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[GethomePageVehicle]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[GetHotedeal]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[GetLiveauctionEvents]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[getLiveEvents]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[getLiveEvents1]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[getlostbids]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[getNerrestdealers]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[getNerrestdealersbyBrand]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[getNerrestloctions]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[getNerrestloctionsnew]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[GetNewVec]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[GetOldVecimages]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[getoldvehcilebylocation]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[getpendingrcvecbids]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[GetPointDealers]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[getPopularBrands]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[GetRTAOfficeAddress]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[getupcomingEvents]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[GetVarietswithPrice]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[GetVarietswithPriceNew]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[GetVecimages]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[GetVecPrices]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[Getventvecdetails]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[getwinbids]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[homepageVehciles]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[homesildercat]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[listNewuploadoldvehicle]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[listsimilerpricewiseoldvehicle]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[LiveactionVehicleDownload]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[LiveBids]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[NewSearchvec]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[NewSearchvecList]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[NewSearchvecList1]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[NewSearchvecNEW]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[NewSearchvecNEWList]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[NewVecDetails]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[Newvehcileanylysis]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[oldvehcileanylysis]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[s_showhomepages]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[s_showofferbid]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[Search_AspNetRoles]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[Search_AspNetusers]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[Search_bankitUsers]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[Search_brand]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[Search_category]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[Search_District]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[Search_DistrictName]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[Search_model]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[Search_oldvehicle_ChassieNumber]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[Search_oldvehicle_name]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[Search_oldvehicle_RegisterNumer]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[Search_state]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[Search_sub_category]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[Search_SubDistrict]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[Search_Variet]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[SearchAllTables]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[searchHomepageVehcile]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[Searchvec]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[Searchvec2]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[gaadiyadekho].[upcomingeactionVehicleDownload]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[BreakStringIntoRows]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[dbo].[CSVToTableWithcol]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[dbo].[CSVToTableWithID]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[dbo].[Distance]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[dbo].[fn_split]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[dbo].[fnCalcDistanceKM]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[dbo].[fnSplitString]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[dbo].[getDistance]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[dbo].[TryConvertInt]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[dbo].[TryParseAsDecimal]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[dbo].[uf_CalculateDistance]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[dbo].[ufn_CSVToTable]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[gaadiyadekho].[allowedevents]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[gaadiyadekho].[allowedlocation]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[gaadiyadekho].[allowedlocationusers]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[gaadiyadekho].[CoordinateDistanceMiles]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[gaadiyadekho].[deleimtertotable]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[gaadiyadekho].[Distance]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[gaadiyadekho].[fn_Split]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[gaadiyadekho].[fnCalcDistanceKM]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[gaadiyadekho].[geteventveccount]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[gaadiyadekho].[GetNumeric]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[gaadiyadekho].[splitstring]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[gaadiyadekho].[try_parse_float]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[gaadiyadekho].[udf_GetNumeric]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[gaadiyadekho].[userallowedlocation]",
+         "ObjectType": 2
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false,
+   "UseT4Split": false
+}
