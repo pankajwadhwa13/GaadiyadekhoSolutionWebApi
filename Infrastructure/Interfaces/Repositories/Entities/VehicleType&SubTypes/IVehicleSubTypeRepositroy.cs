@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Application.Interfaces.Repositories.Entities.VehicleType_SubTypes
+namespace Infrastructure.Interfaces.Repositories.Entities.VehicleType_SubTypes
 {
-    public  interface IVehicleTypeRepository
+    public interface IVehicleSubTypeRepositroy
     {
     }
 }

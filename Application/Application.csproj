@@ -28,6 +28,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DataContext\Data.csproj" />
+    <ProjectReference Include="..\Infrastructure\Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
