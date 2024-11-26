@@ -16,7 +16,7 @@ namespace Data.DataContext
         private IGaadiyadekhoContextProcedures _procedures;
 
         public virtual IGaadiyadekhoContextProcedures Procedures
-        {
+        { 
             get
             {
                 if (_procedures is null) _procedures = new GaadiyadekhoContextProcedures(this);
